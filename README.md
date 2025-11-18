@@ -3,7 +3,7 @@
 This repository contains the official implementation of SIGGRAPH Asia Conference Paper  
 **“An Adjoint Method for Differentiable Fluid Simulation on Flow Maps”**  
 By Zhiqi Li, Jinjin He, Barnabás Börcsök, Taiyuan Zhang, Duowen Chen, Tao Du, Ming C. Lin, Greg Turk & Bo Zhu.  
-Paper available at [arXiv: 2511.01259](https://arxiv.org/abs/2511.01259) (Nov 2025). :contentReference[oaicite:10]{index=10}
+Paper available at [arXiv: 2511.01259](https://arxiv.org/abs/2511.01259) (Nov 2025).
 
 > 🔗 **Project Page / Demo:** [https://pearseven.github.io/DiffFMProject/](https://pearseven.github.io/DiffFMProject/)  
 > 📄 [**Paper PDF / DOI** ](https://arxiv.org/abs/2511.01259)  
