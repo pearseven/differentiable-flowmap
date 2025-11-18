@@ -55,11 +55,9 @@ optimize_shape_G_R.py
 If you find this repository helpful, please cite:
 
 ```bibtex
-@article{li2025adjoint,
-  title   = {An Adjoint Method for Differentiable Fluid Simulation on Flow Maps},
-  author  = {Li, Zhiqi and He, Jinjin and B\"orcs\"ok, Barnab\'as and Zhang, Taiyuan and Chen, Duowen and Du, Tao and Lin, Ming C. and Turk, Greg and Zhu, Bo},
-  journal = {SIGGRAPH Asia Conference Papers},
-  year    = {2025},
-  note    = {arXiv:2511.01259},
-  url     = {https://arxiv.org/abs/2511.01259}
-}
+@inproceedings{li2025adjoint,
+    year = {2025},
+    title = {An Adjoint Method for Differentiable Fluid Simulation on Flow Maps},
+    booktitle = {ACM SIGGRAPH Asia 2025 (Conference Track)},
+    author = {Li, Zhiqi and He, Jinjin and Börcsök, Barnabás and Zhang, Taiyuan and Chen, Duowen and Du, Tao and Lin, Ming C. and Turk, Greg and Zhu, Bo}
+  }
