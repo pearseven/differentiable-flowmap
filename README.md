@@ -18,7 +18,7 @@ This implementation is written entirely in Python 3.9 using Taichi for high-perf
 
 Install all required packages:
 
-pip install taichi numpy pillow matplotlib scipy
+pip install taichi numpy pillow matplotlib scipy imageio
 
 
 or using a requirements.txt:
@@ -28,6 +28,7 @@ numpy
 pillow
 matplotlib
 scipy
+imageio
 ```
 
 Then install with:
