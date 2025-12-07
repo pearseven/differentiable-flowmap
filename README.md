@@ -35,6 +35,7 @@ Then install with:
 ```
 pip install -r requirements.txt
 ```
+For 3D part, our repo rely on https://github.com/wrc042/AMGPCG_Pybind, a fast MGPCG solver. install it before run 3D code.
 ## Usage
 For 2D G->R smoke shape transition
 ```
